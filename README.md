@@ -1,6 +1,6 @@
 # 24daysofrust
 
-- http://zsiciarz.github.io/24daysofrust/book/vol1/day1.html
+- http://zsiciarz.github.io/24daysofrust/book/vol1/day2.html
 
 ### Day 2
 
